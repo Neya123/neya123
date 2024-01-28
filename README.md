@@ -14,4 +14,4 @@ Hello, world! I'm Neya Babu Thayyil, a passionate professional with a love for t
 
 📸🌍 Thanks for stopping by. I look forward to connecting with fellow data enthusiasts, photographers, volunteers, and gardeners alike! Happy coding!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neyababuthayyil)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neya123)](https://github.com/anuraghazra/github-readme-stats)
